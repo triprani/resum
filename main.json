@@ -1,0 +1,57 @@
+{
+
+ "profile":{
+         "img":"Chrysanthemum.jpg",
+         "name":"Saitriveni",
+         "roll":"1241",
+         "institute":"vignan",
+         "place":"guntur"
+    },
+    "career":{
+        "info": "seeking a challenging career with an mnc"
+    },
+    "educational":[
+     {
+        "degree":"b.tech",
+        "institution":"vignan",
+        "yop":"2020"
+     },
+     {
+         "degree":"intermediate",
+         "institution":"srichaitanya",
+         "yop":"2016"
+     },
+     {
+         "degree":"s.s.c",
+         "institution":"saiaditya",
+         "yop":"2014"
+      }
+    ],
+    "languages":[
+     {
+        "lang":"telugu"
+
+     },
+     {
+        "lang":"english"
+
+     },
+     {
+        "lang":"hindhi"
+     }
+    ],
+    "skills":[
+        {
+            "title":"platform",
+            "content":"windows,linus"
+        },
+        {
+            "title":"programming languages",
+            "content": "c,c++,java"
+        },
+        {
+            "title":"databases",
+            "content":"mysql"
+        }
+    ] 
+}
